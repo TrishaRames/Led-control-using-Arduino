@@ -86,8 +86,10 @@ void loop ()
 }
 ```
 ## OUTPUT
-<img width="1920" height="1200" alt="390715082-17abd381-72a6-448e-9614-9780b55cd3a5" src="https://github.com/user-attachments/assets/4652d41f-37c6-4e58-9e3a-805f33658f8c" />
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/7ded01dc-9d77-46d2-abda-67923d4f6b0e" />
+
+<img width="763" height="449" alt="Screenshot 2025-09-10 093436" src="https://github.com/user-attachments/assets/14b19cf2-71aa-41a8-ad58-2a983835d634" />
+
+<img width="753" height="434" alt="Screenshot 2025-09-10 093445" src="https://github.com/user-attachments/assets/8d7774b0-f01e-46cf-9045-1bf7aa7c1ddf" />
 
 ## RESULT
 Thus the LED control using an Arduino microcontroller and a push button is executed successfully.
