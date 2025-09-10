@@ -1,8 +1,7 @@
-#Exp 1: Led-control-using-Arduino
+## NAME: R.Trisha
 
-NAME: R.Trisha
-
-REG NO: 212224100061
+## REG NO: 212224100061
+## Exp 1: Led-control-using-Arduino
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
