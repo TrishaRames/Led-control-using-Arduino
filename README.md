@@ -1,4 +1,8 @@
-# Led-control-using-Arduino
+#Exp 1: Led-control-using-Arduino
+
+NAME: R.Trisha
+
+REG NO: 212224100061
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
@@ -58,7 +62,8 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
-<img width="1920" height="1200" alt="390715082-17abd381-72a6-448e-9614-9780b55cd3a5" src="https://github.com/user-attachments/assets/4652d41f-37c6-4e58-9e3a-805f33658f8c" />
+<img width="1035" height="728" alt="image" src="https://github.com/user-attachments/assets/552cd136-2238-4060-98a6-c30b791ab459" />
+
 
 ## PROGRAM
 ```
@@ -79,6 +84,7 @@ void loop ()
 }
 ```
 ## OUTPUT
+<img width="1920" height="1200" alt="390715082-17abd381-72a6-448e-9614-9780b55cd3a5" src="https://github.com/user-attachments/assets/4652d41f-37c6-4e58-9e3a-805f33658f8c" />
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/7ded01dc-9d77-46d2-abda-67923d4f6b0e" />
 
 ## RESULT
