@@ -4,7 +4,7 @@
 
 ## NAME: R.Trisha
 ## REG NO: 212224100061
-## Exp 1: Led-control-using-Arduino
+## Exp 1: Led control using Arduino
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
@@ -69,13 +69,13 @@ Weighing Machines </br>
 
 ## PROGRAM
 ```
-int button =2;
-int led = 13 ;
+int button =4;
+int led = 10;
 
 void setup()
 {
-  pinMode(2,INPUT);
-  pinMode(13,OUTPUT);
+  pinMode(4,INPUT);
+  pinMode(10,OUTPUT);
 }
 void loop ()
 {
